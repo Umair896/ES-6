@@ -1,1 +1,1 @@
-It contains importabt ES-6 concepts.
+It contains some important ES-6 concepts.
